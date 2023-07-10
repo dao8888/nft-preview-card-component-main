@@ -24,7 +24,7 @@ body {
     border-radius: calc(var(--radius) + var(--border));
     box-shadow: 1px 0px 20px 2px rgb(0, 0, 0,  .2);
     background-color: hsl(216, 50%, 16%);
-    margin: 10px 10px;
+    margin: 20px;
     text-align: center;
 }
 
